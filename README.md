@@ -77,3 +77,5 @@ git push origin main
 Now you have successfully resolved a conflict using Git, GitHub, and pull requests. This process is common in real-world projects, so it's essential to understand and practice resolving conflicts.
 
 ## Hello World!
+
+There is no scripts in the following.
